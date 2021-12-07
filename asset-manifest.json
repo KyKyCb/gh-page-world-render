@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/gh-page-world-render/static/css/main.f6349087.chunk.css",
+    "main.js": "/gh-page-world-render/static/js/main.cc4022aa.chunk.js",
+    "main.js.map": "/gh-page-world-render/static/js/main.cc4022aa.chunk.js.map",
+    "runtime-main.js": "/gh-page-world-render/static/js/runtime-main.ae6ffde5.js",
+    "runtime-main.js.map": "/gh-page-world-render/static/js/runtime-main.ae6ffde5.js.map",
+    "static/css/2.58a45539.chunk.css": "/gh-page-world-render/static/css/2.58a45539.chunk.css",
+    "static/js/2.5336d79d.chunk.js": "/gh-page-world-render/static/js/2.5336d79d.chunk.js",
+    "static/js/2.5336d79d.chunk.js.map": "/gh-page-world-render/static/js/2.5336d79d.chunk.js.map",
+    "index.html": "/gh-page-world-render/index.html",
+    "static/css/2.58a45539.chunk.css.map": "/gh-page-world-render/static/css/2.58a45539.chunk.css.map",
+    "static/css/main.f6349087.chunk.css.map": "/gh-page-world-render/static/css/main.f6349087.chunk.css.map",
+    "static/js/2.5336d79d.chunk.js.LICENSE.txt": "/gh-page-world-render/static/js/2.5336d79d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/gh-page-world-render/static/media/HelveticaNeueBoldCondensed.032c5f4d.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae6ffde5.js",
+    "static/css/2.58a45539.chunk.css",
+    "static/js/2.5336d79d.chunk.js",
+    "static/css/main.f6349087.chunk.css",
+    "static/js/main.cc4022aa.chunk.js"
+  ]
+}
