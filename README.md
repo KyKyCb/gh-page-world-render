@@ -4,5 +4,5 @@
 
 Нhis repository was created specifically for gh-page.
 
-It's build from: https://github.com/KyKyCb/world-tree-tabs
+It was built from: https://github.com/KyKyCb/world-tree-tabs
 
